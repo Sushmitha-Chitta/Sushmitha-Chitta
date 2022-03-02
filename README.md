@@ -1,11 +1,11 @@
 
 <h1 align="center" > Hi, I'm Sushmitha Chitta 👋 </h1>
-<h4> 
+<p> 
   <li> <em>A girl who loves exploring new fields/places and empowering others. </em> <br>
   <li> <em>I've worked in Capgemini, India for 4 years and recently moved to Florida, United States. Figuring to fit-in.🤞🏻 </em> <br>    
   <li> <em>I'm currently learning a few Backend & frontend technologies and I'm well adapted in Python, PHP, HTML& CSS. </em> <br>
   <li> <em>I also know the basics of google could platform. </em>
- </h4>
+ </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
